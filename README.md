@@ -11,3 +11,7 @@
  - `npm init -y` and its configurations
  - `tsc --init` cleaned from huge amount of comments
  - Select a structure/architecture type and create a boilerplate accordingly (MVC, Microservices, Serveless, etc)
+
+## Author
+
+- Felipe Santos [@felipesantos94](https://github.com/felipesantos94)
